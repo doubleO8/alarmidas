@@ -1,0 +1,9 @@
+/node_modules/
+/public/build/
+/public/Staticfile.auth
+
+.DS_Store
+*~
+
+.cfignore
+manifest.yml
